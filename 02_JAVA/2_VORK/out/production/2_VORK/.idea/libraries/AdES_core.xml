@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="AdES-core">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../DRIVERS/java-csp-5.0.46605-A-e80230f4/java-csp-5.0.46605-A-e80230f4/AdES-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../DRIVERS/java-csp-5.0.46605-A-e80230f4/java-csp-5.0.46605-A-e80230f4/ASN1P.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../DRIVERS/java-csp-5.0.46605-A-e80230f4/java-csp-5.0.46605-A-e80230f4/asn1rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../DRIVERS/java-csp-5.0.46605-A-e80230f4/java-csp-5.0.46605-A-e80230f4/CAdES.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../DRIVERS/java-csp-5.0.46605-A-e80230f4/java-csp-5.0.46605-A-e80230f4/cmsutil.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../DRIVERS/java-csp-5.0.46605-A-e80230f4/java-csp-5.0.46605-A-e80230f4/cpSSL.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../DRIVERS/java-csp-5.0.46605-A-e80230f4/java-csp-5.0.46605-A-e80230f4/forms_rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../DRIVERS/java-csp-5.0.46605-A-e80230f4/java-csp-5.0.46605-A-e80230f4/J6CF.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../DRIVERS/java-csp-5.0.46605-A-e80230f4/java-csp-5.0.46605-A-e80230f4/J6Oscar.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../DRIVERS/java-csp-5.0.46605-A-e80230f4/java-csp-5.0.46605-A-e80230f4/JCP.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../DRIVERS/java-csp-5.0.46605-A-e80230f4/java-csp-5.0.46605-A-e80230f4/JCPControlPane.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../DRIVERS/java-csp-5.0.46605-A-e80230f4/java-csp-5.0.46605-A-e80230f4/JCPRequest.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../DRIVERS/java-csp-5.0.46605-A-e80230f4/java-csp-5.0.46605-A-e80230f4/JCPRevCheck.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../DRIVERS/java-csp-5.0.46605-A-e80230f4/java-csp-5.0.46605-A-e80230f4/JCPRevTools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../DRIVERS/java-csp-5.0.46605-A-e80230f4/java-csp-5.0.46605-A-e80230f4/JCPxml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../DRIVERS/java-csp-5.0.46605-A-e80230f4/java-csp-5.0.46605-A-e80230f4/JCryptoP.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../DRIVERS/java-csp-5.0.46605-A-e80230f4/java-csp-5.0.46605-A-e80230f4/JCSP.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../DRIVERS/java-csp-5.0.46605-A-e80230f4/java-csp-5.0.46605-A-e80230f4/Rutoken.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../DRIVERS/java-csp-5.0.46605-A-e80230f4/java-csp-5.0.46605-A-e80230f4/samples.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../DRIVERS/java-csp-5.0.46605-A-e80230f4/java-csp-5.0.46605-A-e80230f4/sspiSSL.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../DRIVERS/java-csp-5.0.46605-A-e80230f4/java-csp-5.0.46605-A-e80230f4/tls_proxy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../DRIVERS/java-csp-5.0.46605-A-e80230f4/java-csp-5.0.46605-A-e80230f4/XAdES.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../DRIVERS/java-csp-5.0.46605-A-e80230f4/java-csp-5.0.46605-A-e80230f4/XMLDSigRI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../DRIVERS/java-csp-5.0.46605-A-e80230f4/java-csp-5.0.46605-A-e80230f4/samples-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
